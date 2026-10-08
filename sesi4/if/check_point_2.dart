@@ -3,7 +3,7 @@ void main() {
 
   if (aktif) {
     print("Mahasiswa aktif");
-  } else 
+  } else {
     print("Mahasiswa tidak aktif");
-  
+  }
 }
